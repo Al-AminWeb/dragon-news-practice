@@ -9,6 +9,7 @@ const HomeLayout = () => {
                 <Header />
             </header>
             <main>
+
                 <section className="left-nav"></section>
                 <section className="main">
                     <Outlet></Outlet>
